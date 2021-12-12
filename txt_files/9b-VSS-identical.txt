@@ -1,0 +1,2 @@
+"IID1"	"IID2"	"Z2"
+"BadSample_13"	"BadSample_14"	0.9788
